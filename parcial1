@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+       29 DE AGOSTO 
+    </title>
+    <h1> TRANSFORMACIONES CONJUNTAS </h1>
+</head>
+<body>
+    <p>
+        <span  style="color: rgb(14, 81, 231);">
+         Vector para la transformacion 
+        </span>
+        <span style="color: rgb(98, 96, 93);" >
+          => p1 
+        </span>
+        <input id="p1" size="30"> <!--punto 1 -->
+        <span style="color: black;">
+            ,p2 
+            <input  id="p2" size="30">
+        </span>
+    </p>
+    <p>
+        <span  style="color: rgb(14, 81, 231);">
+           Transformacion inicial
+           <input id="ti" size="30"> <!--Transformacion inicial -->
+    
+        </span>
+    </p>
+
+    <p>
+    <span>
+        <span  style="color: rgb(14, 81, 231);">
+            Transformacion final
+            <input id="ti" size="30"> <!--Transformacion Final -->
+    </span>
+   </p>
+   <p>
+    <span style="color: rgb(16,246, 43);">
+        Vector resultado
+    </span>
+    <input id="vr" size="25">
+   </p>
+
+    <script>
+        // slip para separar los numeros 
+        
+
+    </script>
+</body>
+</html>
